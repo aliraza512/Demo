@@ -1,10 +1,5 @@
 <html>
 <head>
-<style>
-p{
-color:red;
-}
-</style>
 </head>
 <body>
 <h1> Demo </h1>
